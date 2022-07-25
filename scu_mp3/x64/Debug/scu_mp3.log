@@ -1,0 +1,6 @@
+﻿  menu.c
+D:\scu_mp3\scu_mp3\scu_mp3\menu.c(28,9): warning C4013: “_getch”未定义；假设外部返回 int
+D:\scu_mp3\scu_mp3\scu_mp3\menu.c(95,4): warning C4013: “music_face”未定义；假设外部返回 int
+D:\scu_mp3\scu_mp3\scu_mp3\menu.c(189,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\scu_mp3\scu_mp3\scu_mp3\menu.c(271,11): warning C4133: “函数”: 从“media *”到“meida *”的类型不兼容
+  scu_mp3.vcxproj -> D:\scu_mp3\scu_mp3\x64\Debug\scu_mp3.exe
